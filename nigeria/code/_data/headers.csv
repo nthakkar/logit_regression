@@ -1,0 +1,71 @@
+Column ID,Column contents,Notes
+caseid,Case ID number,
+v001,Cluster number,
+v002,Household number,
+v003,Respondent number,
+v004,Ultimate area unit,
+v005,Sample weight,
+v006,Month of interview,
+v009,Respondent month of birth,
+v010,Respondent year of birth,
+v024,Region,
+v025,Urban/Rural,
+v040,Altitude in m,
+v106,Highest education level,
+v113,code - source of drinking water,
+v116,code - type of toilet facility,
+v119,household has electricity,0 - no; 1 - yes; 7 - don't know; 9 - missing
+v120,household has radio,1 - no; 1 - yes; 7 - don't know; 9 - missing
+v121,household has television,2 - no; 1 - yes; 7 - don't know; 9 - missing
+v122,household has refrigerator,3 - no; 1 - yes; 7 - don't know; 9 - missing
+v123,household has bicycle,4 - no; 1 - yes; 7 - don't know; 9 - missing
+v124,household has motorcycle,5 - no; 1 - yes; 7 - don't know; 9 - missing
+v125,household has car/truck,6 - no; 1 - yes; 7 - don't know; 9 - missing
+v130,Religion code,
+v131,Ethnicity code,
+v133,Total years of education,
+v136,Number of household members,
+v137,Number of children under 5 in household,
+v151,Sex of household head,
+v152,Age of household head,
+v155,Literacy code,
+v161,Cooking fuel type code,
+v190,Wealth index,
+v201,Total children ever born,
+v202,Sons at home,
+v203,Daughters at home,
+v208,Births in last 5 years,
+v212,Age of respondent at first birth,
+v218,Number of living children,
+v312,Birth control method,
+v394,visited health facility in last year,
+v501,marital status,
+v503,number of marriages,
+v505,number of other wives,
+v511,Age at first cohabitation,
+v525,Age at first sex,96 - At marriage
+v531,Imputed age at first sex,97 - Inconsistent
+v613,Hoped-for number of children,
+v714,Respondent currently working,
+v715,Husband/partner's  total years of education,
+v730,Husband/partner's age,
+bord,Birth order of child,
+b0,Multiple birth?,
+b1,Month of birth,
+b2 ,Year of birth,
+b4,Child's gender,
+b5,Child is alive,
+b7,age at death; months,
+b11,Interval from preceding birth,
+b12,Interval from next birth,
+h8,Has received full polio vaccine schedule,"0 - No; 1 - yes, reported on vaccination card with date; 2 - yes - reported by mother; 3 - yes - reported on vaccination card w/o date; 8 - Don't know; 9 - missing"
+h9,Has received measles vaccine,Same as h8
+h0,Received first dose polio vaccine,Same as h8
+hw1,Child's age in months,
+sstate,State of residence,
+Slarea,Local government area of residence,
+Slang2,respondent's native language code,
+shh243a,has mobile telephone,
+s1203,Respondent's number of siblings,
+LATNUM,Latitude of household (noise added to protect identities),
+LONGNUM,Longitude of household (noise added to pretect identities),
